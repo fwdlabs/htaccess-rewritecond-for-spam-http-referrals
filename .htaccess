@@ -1,3 +1,6 @@
+# Version 1.08
+# Revised 2017-01-29
+
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*1-99seo\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*1-free-share-buttons\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*100dollars-seo\.com [NC,OR]
@@ -35,6 +38,7 @@ RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*site-auditor\.online [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*snip\.tw [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*social-widget\.xyz [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*success-seo\.com [NC,OR]
+RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*timer4web\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*trafficmonetize\.org [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*trafficmonetizer\.org [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*traffic2cash\.org [NC,OR]
@@ -48,6 +52,7 @@ RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*video--production\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*video-for-your-business\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*videos-for-your-business\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*webmonetizer\.net [NC,OR]
+RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*website-analytics\.online [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*website-analyzer\.info [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*yeartwit\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*годом\.рф [NC]
