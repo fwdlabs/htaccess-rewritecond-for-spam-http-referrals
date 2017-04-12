@@ -1,5 +1,5 @@
-# Version 1.08
-# Revised 2017-01-29
+# Version 1.09
+# Revised 2017-04-11
 
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*1-99seo\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*1-free-share-buttons\.com [NC,OR]
