@@ -1,5 +1,5 @@
-# Version 1.12
-# Revised 2018-11-13
+# Version 1.13
+# Revised 2018-11-27
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*1-99seo\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*1-free-share-buttons\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*100dollars-seo\.com [NC,OR]
@@ -32,6 +32,7 @@ RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*rank-checker\.online [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*rankings-analytics\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*ranksonic\.info [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*ranksonic\.net [NC,OR]
+RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*seo-b2b\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*seo-platform\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*semalt\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://([^.]+\.)*semaltmedia\.com [NC,OR]
